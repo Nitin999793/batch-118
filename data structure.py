@@ -1,3 +1,1 @@
-print("hello")
-
-print("world") 
+#wap to check 1st number
